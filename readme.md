@@ -1,4 +1,4 @@
-Mini Torrent
+## Mini Torrent
 The code is divided into two parts one is Tracker and other one is client<br>
 For running seperately compile both the client and tracker file by using make
 for starting tracker cd to tracker folder
